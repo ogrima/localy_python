@@ -4,7 +4,7 @@
 
 > pip install functions-framework
 
-> curl -X POST http://localhost:8080 -H "Content-Type:application/json"  -d '{"name":"Jane"}'
+> curl -X POST http://localhost:8080 -H "Content-Type:application/json"  -d '{"name":"Grima"}'
 
 > curl --location --request POST 'http://localhost:8080/' --header 'Content-Type: application/json' --data-raw '{"name":"Jane"}'
 
