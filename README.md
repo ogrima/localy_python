@@ -1,6 +1,6 @@
 
 
-### Run Cloud-functions locally
+### Running Cloud-functions locally
 
 <h4> </h4>
 
